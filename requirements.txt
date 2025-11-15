@@ -1,0 +1,7 @@
+# Requirements file for the chatbot service
+# Add dependencies as needed during implementation
+
+# Core dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
+typing-extensions>=4.0.0
